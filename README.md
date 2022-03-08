@@ -1,7 +1,7 @@
 # xScraper
 
 <p align="center">
-  <img src="doc/logos/xScraper-logos_black.png" width="225" alt="logo">
+  <img src="doc/logos/xScraper-logos_white.png" width="225" alt="logo">
 </p>
 
 
