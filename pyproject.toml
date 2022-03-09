@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.7"
 requests = "^2.27.1"
 bs4 = "^0.0.1"
+fake-useragent = "^0.1.11"
 
 [tool.poetry.dev-dependencies]
 
