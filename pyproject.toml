@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "xscraper"
+version = "0.1.0"
+description = "Automatic PDF Scraper from Google with Key words"
+authors = ["Duc Tuyen Ta <tuyentd86@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.27.1"
+bs4 = "^0.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
